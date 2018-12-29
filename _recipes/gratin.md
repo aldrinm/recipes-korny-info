@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Potato Gratin"
 image: gratin.jpg
-tags: dinner vegetarian incomplete
+tags: sides vegetarian incomplete
 
 ingredients:
 

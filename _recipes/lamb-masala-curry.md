@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Lamb Masala Curry"
 image: lamb-masala-curry.jpg
-tags: dinner indian incomplete
+tags: mains indian incomplete
 
 ingredients:
 
