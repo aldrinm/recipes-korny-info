@@ -70,7 +70,7 @@ layout: default
   <h3>Tags:</h3>
 
   {% for tag in page.tags %}
-    <span><a href="/tag/#{{ tag | slugify }}">{{ tag }}</a></span>
+    <span><a href="/tag#{{ tag | slugify }}">{{ tag }}</a></span>
   {% endfor %}
   {% endif %}
 
