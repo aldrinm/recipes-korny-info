@@ -25,6 +25,10 @@ Recipes that are links to someone else's site - I'm not going to bother copying 
 I have a shiny new Instant Pot pressure cooker - these recipes are generally specific to the IP, but probably can
 be used on any pressure cooker.
 
+#### toddler
+Well, we follow baby-led weaning, so in theory everything is toddler friendly.  But I'm tagging with 'toddler' anything
+that is especially popular (or has been at some stage)
+
 ## Technical
 
 You can find the source code on Github at <https://github.com/kornysietsma/recipes-korny-info>
