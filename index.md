@@ -12,8 +12,6 @@ list_title: Blog posts
   * [{{post.title}}]({{ post.url | prepend: site.baseurl }})
 {% endfor %}
 
-
-
 ## Tags
 {% comment %}
 TODO: remove this duplication!

@@ -34,3 +34,5 @@ directions:
 ---
 
 NOTE: If you can't find bassar, you might want to add a little more chilli powder, but I suggest adding it at the end of cooking to taste
+
+Tested using the instant-pot - and I forgot to thicken with yoghurt!  The taste was great.
