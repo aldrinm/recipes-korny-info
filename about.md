@@ -18,6 +18,13 @@ These are recipes that need transcribing from images or sources into proper text
 #### untested
 These are recipes I've never actually tested - use with caution.
 
+#### external
+Recipes that are links to someone else's site - I'm not going to bother copying web-based recipes here!
+
+#### pressure-cooker
+I have a shiny new Instant Pot pressure cooker - these recipes are generally specific to the IP, but probably can
+be used on any pressure cooker.
+
 ## Technical
 
 You can find the source code on Github at <https://github.com/kornysietsma/recipes-korny-info>
