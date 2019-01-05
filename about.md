@@ -63,7 +63,16 @@ You can find the source code on Github at <https://github.com/kornysietsma/recip
 
 It is based on a very basic Jekyll site, plus some clever recipe metadata management I copied from [chowdown](https://github.com/clarklab/chowdown)
 
-Recipe metadata should match the [recipe schema](https://schema.org/Recipe)
+Recipe metadata in chowdown claimd to match the [recipe schema](https://schema.org/Recipe) - but that's overkill for me,
+I'm going to add random fields as I see them useful.  Currently supported:
+
+* title
+* tags
+* image (can have multiple)
+* imageCredit
+* ingredients
+* directions
+* source - for the original source of the recipe
 
 I used to know more about CSS than I do now - but I have no time and don't keep up to date,
 so I'll probably just stick to out-of-the-box themes for styling.
