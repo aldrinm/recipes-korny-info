@@ -1,0 +1,36 @@
+---
+
+layout: recipe
+title:  "Kohlrabi and peanut stir-fry"
+tags: mains vegetarian toddler external
+
+ingredients:
+- 250g egg noodles
+- 2 tbsp sesame oil
+- 2 tbsp sunflower oil
+- 1 large or 2 small carrots, peeled & cut into thin matchsticks
+- 1 large kohlrabi, peeled & cut into thin matchsticks
+- 2 garlic cloves, grated
+- 3-4cm piece fresh ginger, grated
+- 1 chilli, chopped
+- 1 bunch spring onions, finely sliced
+- 150g sugar snap peas or green beans
+- 3 tbsp hoisin sauce
+- 2 tbsp soy or tamari sauce
+- 2 tbsp water
+- 1 good tbsp crunchy peanut butter
+- 3 tbsp peanuts, toasted & chopped
+- Squeeze of lime juice, to taste
+- 1 bunch coriander, leaves chopped
+- Salt & pepper
+directions:
+- Cook the noodles according to the instructions on the packet, then drain and toss with the sesame oil to prevent them from sticking.
+- Heat the sunflower (or other cooking oil) in a wok. Add the carrot, kohlrabi, garlic, ginger and chilli, if using, and stir-fry for 3 minutes.
+- Add the noodles with the spring onions and the sugarsnaps or beans and cook for a further 2 minutes.
+- Stir in the hoisin, soy or tamari, peanut butter, chopped peanuts and water. Heat through.
+- Serve with a little lime juice to taste, season lightly if needed and sprinkle with coriander.
+---
+
+Source: [Riverford](https://www.riverford.co.uk/mil/recipes/view/recipe/kohl-rabi-and-peanut-stir-fry) - our veg box people have some great recipes!  Our toddler _loved_ this at about 12 months old - it was our gateway to stir-fry dishes
+
+Mildly sweet kohlrabi is a worthwhile vegetable but it needs tender treatment - the Asian seasonings here give it a real boost, with the peanut butter accentuating its delicate nutty flavour. This is a great quick weeknight dinner.

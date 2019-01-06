@@ -7,7 +7,7 @@ title: Recipes
 list_title: Blog posts
 ---
 
-{% assign sorted = site.recipes | sort:"date" %}
+{% assign sorted = site.recipes | sort:"title" %}
 {% for post in sorted %}
   * [{{post.title}}]({{ post.url | prepend: site.baseurl }})
 {% endfor %}
