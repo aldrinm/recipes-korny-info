@@ -1,0 +1,12 @@
+---
+
+layout: recipe
+title:  "Winter Greens with chicken and beans"
+image: winter-greens-with-chicken-and-beans.jpg
+tags: mains incomplete
+source: Simple Food by Jill Dupleix
+ingredients:
+
+directions:
+
+---
