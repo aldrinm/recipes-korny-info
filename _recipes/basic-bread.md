@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Basic bread"
-tags: basics incomplete untested
+tags: basics untested
 
 ingredients:
 - 300g strong white bread flour (use 500g if you want a 100 percent white loaf), plus extra for sprinkling
@@ -26,3 +26,4 @@ directions:
 - Rest on a wire rack for at least 45 minutes before cutting (preferably for an hour or so).
 
 ---
+
