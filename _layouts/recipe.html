@@ -66,10 +66,21 @@ layout: default
     {% endif %}
 
   </div>
+  {% if page.source %}
+  <div>
+    <strong>Source:</strong>
+  {% if page.sourceURL %}
+  <a href="{{page.sourceURL}}">{{page.source}}</a>
+  {% else %}
+  {{page.source}}
+  {% endif %}
+  </div>
+  {% endif %}
 <!-- end recipe and directions -->
 
   {% if page.tags %}
-  <h3>Tags:</h3>
+  <div>
+  <strong>Tags:</strong>
 
   {% for tag in page.tags %}
     <span><a href="/tag#{{ tag | slugify }}">{{ tag }}</a></span>

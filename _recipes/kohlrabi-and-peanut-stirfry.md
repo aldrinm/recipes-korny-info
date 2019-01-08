@@ -3,6 +3,8 @@
 layout: recipe
 title:  "Kohlrabi and peanut stir-fry"
 tags: mains vegetarian toddler external
+source: Riverford veg box website
+sourceURL: https://www.riverford.co.uk/mil/recipes/view/recipe/kohl-rabi-and-peanut-stir-fry
 
 ingredients:
 - 250g egg noodles
@@ -31,6 +33,6 @@ directions:
 - Serve with a little lime juice to taste, season lightly if needed and sprinkle with coriander.
 ---
 
-Source: [Riverford](https://www.riverford.co.uk/mil/recipes/view/recipe/kohl-rabi-and-peanut-stir-fry) - our veg box people have some great recipes!  Our toddler _loved_ this at about 12 months old - it was our gateway to stir-fry dishes
+Another excellent Riverford veg box recipe - Our toddler _loved_ this at about 12 months old - it was our gateway to stir-fry dishes
 
 Mildly sweet kohlrabi is a worthwhile vegetable but it needs tender treatment - the Asian seasonings here give it a real boost, with the peanut butter accentuating its delicate nutty flavour. This is a great quick weeknight dinner.

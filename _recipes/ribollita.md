@@ -3,7 +3,8 @@
 layout: recipe
 title:  "Ribollita"
 tags: mains italian soup vegetarian
-source: The Silver Spoon Italian
+source: The Silver Spoon - Clelia D'Onofrio, Giovanna Mazzocchi
+sourceURL: https://www.goodreads.com/book/show/136599.The_Silver_Spoon
 
 ingredients:
 - 3 Tbsp olive oil plus extra for drizzling

@@ -4,6 +4,8 @@ layout: recipe
 title:  "Lamb Masala Curry"
 image: lamb-masala-curry.jpg
 tags: mains indian british-indian
+source: The curry guy - easy - Dan Toombs
+sourceURL: https://www.goodreads.com/book/show/40025981-the-curry-guy-eas
 
 ingredients:
 - 200ml rapeseed oil

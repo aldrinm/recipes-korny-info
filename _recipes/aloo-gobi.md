@@ -3,6 +3,8 @@
 layout: recipe
 title:  "Aloo Gobi"
 tags: mains vegetarian indian external
+source: Riverford veg box website
+sourceURL: https://www.riverford.co.uk/mil/recipes/view/recipe/aloo-gobi
 
 ingredients:
 - 2 tbsp coconut oil
@@ -33,6 +35,6 @@ directions:
 
 ---
 
-Source: [Riverford](https://www.riverford.co.uk/mil/recipes/view/recipe/aloo-gobi) - our veg box people have some great recipes!
+The Riverford veg box people have some great recipes!
 
 A classic cauliflower and potato curry. Serve this with warm naan bread and mango chutney for an inexpensive, quick and flavourful dinner. To make this lighter and greener you could add in a handful of frozen peas and some chopped spinach, chard or kale for the last few minutes of cooking.

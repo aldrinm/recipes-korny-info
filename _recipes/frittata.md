@@ -4,6 +4,7 @@ layout: recipe
 title:  "Basic frittata"
 tags: basics vegetarian toddler
 source: River Cottage baby and toddler cookbook
+sourceURL: https://www.goodreads.com/book/show/10859040-river-cottage-baby-and-toddler-cookbook
 
 ingredients:
 - 350g new potatoes (leftover cooked ones are ideal)

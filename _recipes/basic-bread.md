@@ -3,6 +3,8 @@
 layout: recipe
 title:  "Basic bread"
 tags: basics untested
+source: the 5 o'clock apron - Claire Thomson
+sourceURL: https://www.goodreads.com/book/show/19186362-the-5-o-clock-apron
 
 ingredients:
 - 300g strong white bread flour (use 500g if you want a 100 percent white loaf), plus extra for sprinkling

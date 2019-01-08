@@ -3,6 +3,8 @@
 layout: recipe
 title:  "Chicken Phở (pressure cooker)"
 tags: mains pressure-cooker vietnamese untested external
+source: Viet World Kitchen website
+sourceURL: https://www.vietworldkitchen.com/blog/2017/11/instant-pot-chicken-pho-recipe.html
 
 ingredients:
 

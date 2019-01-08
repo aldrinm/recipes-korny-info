@@ -3,6 +3,8 @@
 layout: recipe
 title:  "Osso Bucco (pressure cooker)"
 tags: mains italian pressure-cooker untested
+source: Instant Pot UK website
+sourceURL: https://www.instantpot.co.uk/instant-pot-recipes/
 
 ingredients:
 - 4 veal or lamb shanks cut to size for the pressure cooker
@@ -30,4 +32,4 @@ directions:
 - Serve a lamb shank on a bed of potatoes. Add a large spoon of the vegetables. Ladle on some of the sauce from the cooker over the shank, vegetables and potatoes.
 ---
 
-Note - assumes an instant pot cooker! Source: <https://www.instantpot.co.uk/instant-pot-recipes/>
+Note - assumes an instant pot cooker!
